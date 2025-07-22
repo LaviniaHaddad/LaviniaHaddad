@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **IA and improving Python and SQL**
 
-- 👨‍💻 All of my projects are available at [laviniahaddad.my.canva.site](laviniahaddad.my.canva.site)
+- 👨‍💻 All of my Data Analyst projects are available at [laviniahaddad.my.canva.site](laviniahaddad.my.canva.site)
 
-- 📫 How to reach me **Laviniahaddad@hotmail.com**
+- 📫 How to reach me **Laviniahaddad@hotmail.com or via Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
