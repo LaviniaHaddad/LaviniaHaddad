@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lavinia Haddad</h1>
-<h3 align="center">A passionate data enthusiast with a background in Accounting,Game Design and a growing skill set in Python, SQL, Power BI, and data automation tools.</h3>
+<h3 align="center">A passionate data enthusiast with a background in Accounting, Game Design and a growing skill set in Python, SQL, Power BI, IA.</h3>
 
-- 🌱 I’m currently learning **Advanced Excel automation, Python for business analytics, Streamlit for interactive dashboards**
+- 🌱 I’m currently learning **IA and improving Python and SQL**
 
 - 👨‍💻 All of my projects are available at [laviniahaddad.my.canva.site](laviniahaddad.my.canva.site)
 
