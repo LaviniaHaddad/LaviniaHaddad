@@ -27,7 +27,7 @@ My journey is focused on transforming raw data into actionable insights that dri
 ## 📂 Portfolio & Projects
 
 Explore my hands-on projects covering Data Analysis:  
-[🔗 laviniahaddad.my.canva.site](https://laviniahaddad.my.canva.site)
+[🔗 laviniahaddad.myportfolio](laviniahaddad.wixsite.com/lavinia-haddad)
 
 ---
 
