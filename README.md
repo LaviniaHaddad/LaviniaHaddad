@@ -1,53 +1,66 @@
-# Hi 👋, I'm Lavinia Haddad
+# 👋 Hi, I'm Lavinia Haddad
 
-I’m a passionate Data Enthusiast with a multidisciplinary background in **Accounting** and **Game Design**, currently specializing in **Data Analysis**, **Business Intelligence**, and **Artificial Intelligence**.  
-My journey is focused on transforming raw data into actionable insights that drive smarter business decisions.
+**Data Analyst | Python Developer | Turning Data into Actionable Insights & Automated Solutions**
 
----
-
-## 🌱 What I’m Learning
-
-- Advanced **Python** (pandas, numpy, scikit-learn) for data manipulation and machine learning  
-- **SQL** for complex queries and database management  
-- **Power BI** for dynamic dashboards and data storytelling  
-- **Artificial Intelligence** and **Machine Learning** techniques to build predictive models and recommendation systems  
+I'm a data professional with a unique background in **Accounting** and **Game Design**, now channeling my analytical and creative skills into **Data Analysis**, **Business Intelligence**, and **Machine Learning**. I thrive on transforming complex datasets into clear, strategic insights and building automated tools that drive efficiency and support decision-making.
 
 ---
 
-## 💼 What I Do
+## 🛠️ Technical Skills
 
-- Build **interactive dashboards** and reports to visualize key business metrics  
-- Automate data workflows and reporting processes to optimize efficiency  
-- Analyze and clean large datasets to ensure data quality  
-- Develop and deploy **machine learning models** for classification, regression, and recommendation  
-- Collaborate with cross-functional teams to translate business needs into data-driven solutions  
+**Programming & Databases:**
+- `Python` (Pandas, NumPy, Scikit-learn, Streamlit, Requests)
+- `SQL`
+- `DAX`
+- `MySQL` / `PostgreSQL`
 
----
+**BI & Visualization:**
+- `Power BI`
+- `Excel` (Advanced)
 
-## 📂 Portfolio & Projects
-
-Explore my hands-on projects covering Data Analysis:  
-[🔗 laviniahaddad.wixsite.com/lavinia-haddad](https://laviniahaddad.wixsite.com/lavinia-haddad)
-
----
-
-## 📫 Get in Touch
-
-- Email: [laviniahaddad@hotmail.com](mailto:laviniahaddad@hotmail.com)  
-- LinkedIn: [linkedin.com/in/laviniahaddad](https://www.linkedin.com/in/laviniahaddad)  
-- GitHub: [github.com/LaviniaHaddad](https://github.com/LaviniaHaddad)  
+**Concepts & Tools:**
+- Machine Learning · Predictive Modeling · ETL · NLP · Git · APIs
 
 ---
 
-## 🚀 Let’s Connect!
+## 💡 What I Bring to the Table
 
-I’m always open to exciting opportunities, collaborations, and knowledge sharing in the fields of Data Science, AI, and BI. Let’s build smarter solutions together!
+I help businesses and teams by:
+
+- **Building interactive dashboards** in Power BI to monitor KPIs and track performance.
+- **Automating data processes** and report generation using Python, reducing manual work by hours.
+- **Developing machine learning models** for prediction and recommendation tasks.
+- **Cleaning, transforming, and analyzing** large datasets to uncover trends and support data-driven decisions.
 
 ---
 
-<!-- Badges example: -->
+## 📫 Let's Connect
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat)  
+I'm always open to discussing data projects, automation ideas, or new opportunities.
+
+- **Email:** [laviniahaddad@hotmail.com](mailto:laviniahaddad@hotmail.com)  
+- **LinkedIn:** [linkedin.com/in/lavinia-haddad](https://www.linkedin.com/in/lavinia-haddad)  
+- **GitHub:** [github.com/LaviniaHaddad](https://github.com/LaviniaHaddad)  
+- **Portfolio:** [laviniahaddad.wixsite.com/lavinia-haddad](https://laviniahaddad.wixsite.com/lavinia-haddad)  
+
+---
+
+## 🚀 Always Learning
+
+Currently diving deeper into:
+- Advanced Machine Learning & AI applications
+- Data engineering and cloud platforms (AWS/GCP)
+- API development and integration
+
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### ⭐ *"Data is not just numbers—it's the story waiting to be told."*
